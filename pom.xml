@@ -24,6 +24,7 @@
         <java.version>17</java.version>
         <sonar.host.url>http://localhost:9000</sonar.host.url>
         <sonar.token>squ_34f2880f3ec454ad756f4efd38b362c3edd58bf6</sonar.token>
+        <sonar.organization>palak153</sonar.organization>
     </properties>
 
 
